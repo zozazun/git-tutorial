@@ -4,3 +4,4 @@
   - fix-B
   - feature-CCC
   - feature-C
+  - feature-D pull req test
